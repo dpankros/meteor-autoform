@@ -187,6 +187,7 @@ Other:
 * [forwarder:autoform-wizard](https://atmospherejs.com/forwarder/autoform-wizard)
 * [planifica:wizard](https://atmospherejs.com/planifica/wizard)
 * [yogiben:autoform-modals](https://atmospherejs.com/yogiben/autoform-modals)
+* [dpankros:multipage-form](https://atmospherejs.com/dpankros/multipage-form)
 
 #### Other
 
